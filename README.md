@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/miguel-angel-mosquera-grisales" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://dev.to/veritechie" target="blank">
+  <a href="http://portfoliomiguel.herokuapp.com/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
   <a href="mailto:mopri38@gmail.com" target="blank">
