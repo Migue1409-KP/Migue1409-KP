@@ -1,68 +1,95 @@
-## Hi, I'm Miguel
+<h1 align="left">What's up?😝<br>//Your answer should be "what's uuuuupp"</h1>
 
-### Badges
+###
 
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
-</p>
+<p align="left">My name is Miguel and I am a Backend Developer from Colombia.<br>I'm about to be a systems engineer and my goal is to be a machine learning developer.<br>Always learning a little more and open to any advice.<br>Tenkiu for visiting the profile and chimba to see you here.</p>
 
-<h3>
- ★  Back Badges
-</h3> 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+###
 
-<h4>Tools & Technologies</h4>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-F24E1E?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-</p>
+<h2 align="left">About me</h2>
 
----
+###
 
-### Github Stats
+<br clear="both">
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migue1409-KP&theme=tokyonight&card_width=450em)](https://github.com/Migue1409-KP/Migue1409-KP/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Migue1409-KP&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false"/></td>
-  </tr>
-</table>
+<p align="left">✨ Creating bugs since 2019.<br>📚 I am currently learning design patterns and software architectures.<br>🎯 Objectives:<br>- Sr Backend Developer<br>- Data Scientist<br>- Machine learning developer<br>🎲 Fun fact:<br>- I love all music<br>- Occasionally you find me playing video games<br>- I can develop frontend but don't make me do it, I'm the backend guy</p>
 
-### Repositorios TOP
+###
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Migue1409-KP&repo=mercadoLiebre&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/react-url-shortener-front)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sacifuentespa&repo=grupo_8_ECommerce&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Migue1409-KP/mealplan-front)
+<br clear="both">
 
----
+<div align="center">
+  <img height="200" src="https://th.bing.com/th/id/OIP.hB6cl2y15uA4DRzO38Wt3AHaHX?rs=1&pid=ImgDetMain"  />
+</div>
 
-### Iconos & badgets sociales
+###
 
-<p>
-  <a href="https://www.linkedin.com/in/miguel-angel-mosquera-grisales" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="http://portfoliomiguel.herokuapp.com/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-  </a>
-  <a href="mailto:mopri38@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/migue__mosgri/" target="blank">
-  </a>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</p>
+<h2 align="left">Knowledge</h2>
 
----
+###
+
+<h3 align="left">Programming Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h3 align="left">Backend Knowledge</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="left">Other Knowledge</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+</div>
+
+###
