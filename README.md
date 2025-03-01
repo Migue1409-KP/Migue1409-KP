@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2019.<br>📚 I am currently learning design patterns and software architectures.<br>🎯 Objectives:<br>- Sr Backend Developer<br>- Data Scientist<br>- Machine learning developer<br>🎲 Fun fact:<br>- I love all music<br>- Occasionally you find me playing video games<br>- I can develop frontend but don't make me do it, I'm the backend guy</p>
+<p align="left">✨ Creating bugs since 2019.<br>📚 I am currently learning design patterns and software architectures.<br>💻Upcoming system engineer.<br>🎯 Objectives:<br>- Sr Backend Developer<br>- Data Scientist<br>- Machine learning developer<br>🎲 Fun fact:<br>- I love all music<br>- Occasionally you find me playing video games<br>- I can develop frontend but don't make me do it, I'm the backend guy</p>
 
 ###
 
